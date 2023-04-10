@@ -1,2 +1,5 @@
-# Pokemon-Gacha-day1_finish
-Pokemon-Gacha day1の実装例
+# Pokemon-Gatya
+
+`npm install`後、`npm run test`でテストができます。
+
+`node server.js`を実行するとlocalhost:3000でindex.htmlを表示できます。
